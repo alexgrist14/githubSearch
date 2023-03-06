@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto Thin",sans-serif;
+}
+
+.repositories-container{
+  display: flex;
+  flex-direction: column;
+  a{
+    text-decoration: none;
+    color: green;
+  }
+}
+
+
+/*# sourceMappingURL=style.scss.map */
